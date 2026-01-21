@@ -235,27 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
 
-- **Google Gemini AI** for powerful language models
-- **ElevenLabs** for realistic text-to-speech
-- **Mozilla PDF.js** for PDF parsing
-- **Mammoth.js** for DOCX support
-- **React Team** for the amazing framework
-
----
-
-## 📧 Contact
-
-**Project Creator**:  [@zorojuro12](https://github.com/zorojuro12)
-
-**Project Link**: [https://github.com/zorojuro12/StubbyAI-learning-assistant](https://github.com/zorojuro12/StubbyAI-learning-assistant)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful! ⭐**
 
 Made with ❤️ for learners everywhere
 
