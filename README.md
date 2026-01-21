@@ -2,9 +2,9 @@
 
 > An intelligent, personality-driven AI tutor powered by Google Gemini AI and ElevenLabs TTS, designed to make learning engaging and personalized for students of all ages.
 
-![React](https://img.shields.io/badge/React-19. 1.1-61DAFB?style=flat&logo=react)
+![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=flat&logo=vite)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-2. 0_Flash-4285F4?style=flat&logo=google)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-2.0_Flash-4285F4?style=flat&logo=google)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-orange?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
